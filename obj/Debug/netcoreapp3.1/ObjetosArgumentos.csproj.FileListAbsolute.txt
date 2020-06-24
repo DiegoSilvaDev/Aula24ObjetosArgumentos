@@ -1,0 +1,13 @@
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\ObjetosArgumentos\bin\Debug\netcoreapp3.1\ObjetosArgumentos.exe
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\ObjetosArgumentos\bin\Debug\netcoreapp3.1\ObjetosArgumentos.deps.json
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\ObjetosArgumentos\bin\Debug\netcoreapp3.1\ObjetosArgumentos.runtimeconfig.json
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\ObjetosArgumentos\bin\Debug\netcoreapp3.1\ObjetosArgumentos.runtimeconfig.dev.json
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\ObjetosArgumentos\bin\Debug\netcoreapp3.1\ObjetosArgumentos.dll
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\ObjetosArgumentos\bin\Debug\netcoreapp3.1\ObjetosArgumentos.pdb
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\ObjetosArgumentos\obj\Debug\netcoreapp3.1\ObjetosArgumentos.csprojAssemblyReference.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\ObjetosArgumentos\obj\Debug\netcoreapp3.1\ObjetosArgumentos.csproj.CoreCompileInputs.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\ObjetosArgumentos\obj\Debug\netcoreapp3.1\ObjetosArgumentos.AssemblyInfoInputs.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\ObjetosArgumentos\obj\Debug\netcoreapp3.1\ObjetosArgumentos.AssemblyInfo.cs
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\ObjetosArgumentos\obj\Debug\netcoreapp3.1\ObjetosArgumentos.dll
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\ObjetosArgumentos\obj\Debug\netcoreapp3.1\ObjetosArgumentos.pdb
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\ObjetosArgumentos\obj\Debug\netcoreapp3.1\ObjetosArgumentos.genruntimeconfig.cache
